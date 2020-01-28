@@ -1,4 +1,4 @@
-### Scrap
+### SCRAP
 
 This is just a simple repo for beginers to Web Devolpment, Which also helps in know more about git & github.
  Mainly concentrated on **NOOBS**
